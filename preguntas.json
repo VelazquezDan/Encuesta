@@ -1,0 +1,13 @@
+[
+  { "id": 1, "texto": "¿Tienes experiencia previa en alguno de estos campos?", "opciones": ["Programación o electrónica", "Diseño mecánico/manufactura", "Gestión de proyectos", "Ninguna, pero con interés en aprender"] },
+  { "id": 2, "texto": "¿Te emociona crear la tecnología del futuro?", "opciones": ["Si", "Regular", "Bastante", "Desde chico", "Desde chica", "Mas o menos"] },
+  { "id": 3, "texto": "¿Has realizado alguna de estas actividades?", "opciones": ["Cursos básicos de programación (Python, Java, etc.)", "Desarrollo de páginas web o apps simples", " Participación en hackathons o eventos tecnológicos", "Ninguna, pero con interés autodidacta"] },
+  { "id": 4, "texto": "¿Cómo reaccionas ante un código que no funciona?", "opciones": ["Investigo hasta resolverlo (aunque tome horas)", " Pido ayuda después de intentarlo", "Lo dejo para después", "Me frustro fácilmente"] },
+  { "id": 5, "texto": "¿Si tuvieras los recursos, ¿qué tipo de sistema desarrollarías?", "opciones": [" App móvil para resolver un problema social", "Software para automatizar procesos industriales", "Plataforma educativa con inteligencia artificial", "Videojuego con realidad aumentada"] },
+  { "id": 6, "texto": "Cuando ves un problema cotidiano (ej: trámites largos en tu escuela), ¿tu primer pensamiento es?", "opciones": ["Debería haber una app para agilizar esto", "Podría automatizarse con un sistema", "Alguien debería mejorar este proceso", "Así son las cosas, no puede cambiarse"] },
+  { "id": 7, "texto": "¿Qué carrera hizo que tu corazón latiera más rápido? Esa intuición inicial suele ser el mejor indicador. ¡Todas estas opciones te llevarán a un futuro brillante!", "opciones": ["Industrial", "Informatica", "Electromecanica", "Electronica", "Administración", "Sistemas Computacionales"] },
+  { "id": 8, "texto": "¿Cuál es el -Hola Mundo- en Python?", "opciones": ["System.out.println(Hola Mundo);", "print(Hola Mundo)", "console.log(Hola Mundo)", "echo Hola Mundo"] },
+  { "id": 9, "texto": "¿Qué significa -BUG- en programación?", "opciones": ["Un insecto que vive en el teclado", "Un error en el código", "Un virus informático", "Un lenguaje de programación obsoleto"] },
+  { "id": 10, "texto": "¿Qué harías si tu programa falla una y otra vez?", "opciones": ["Golpear la computadora", "Revisar el código, debuggear y buscar ayuda", "Culpar al cliente.", "Rendirte y cambiar de carrera."] }
+]
+
