@@ -151,10 +151,9 @@ preguntas_data = cargar_preguntas()
 if 'votos' not in st.session_state:
     st.session_state.votos = {}
     for pregunta in preguntas_data:
-        st.session_state.votos[pregunta['id'] = defaultdict(int)
+        st.session_state.votos[pregunta['id']] = defaultdict(int)  # Aquí estaba el error
         for i in range(len(pregunta['opciones'])):
             st.session_state.votos[pregunta['id']][f'opcion{i}'] = 0
-
 # Función para manejar votos
 def registrar_voto(pregunta_id, opcion_index):
     opcion_key = f'opcion{opcion_index}'
